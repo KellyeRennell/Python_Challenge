@@ -1,0 +1,4 @@
+Election Data Results
+Total votes: 3521001
+O'Tooley: 3.0% (105630)
+Winner: Khan
